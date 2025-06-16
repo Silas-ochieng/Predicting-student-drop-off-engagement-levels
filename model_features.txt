@@ -1,0 +1,10 @@
+Gender
+Country
+Institution Name
+Current/Intended Major
+Status Description
+Status Code
+Engaged
+Age
+Apply Delay (days)
+Start Delay (days)
